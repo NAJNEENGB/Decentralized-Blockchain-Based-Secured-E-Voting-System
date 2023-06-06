@@ -5,8 +5,11 @@ Build your first Decentralized Blockchain E-voting system on Ethereum Network
 Install the Dependencies listed below:
 
 NPM: https://nodejs.org
+
 Truffle: https://github.com/trufflesuite/truffle
+
 Ganache: http://truffleframework.com/ganache/
+
 Metamask: https://metamask.io/
 
 # 2. Get started with Back-End
@@ -29,4 +32,5 @@ Import the accounts provided by Ganache.
 
 # 6. Execute the Front-End
 Following code to run your First Decentralized project:
+
 $ npm run dev

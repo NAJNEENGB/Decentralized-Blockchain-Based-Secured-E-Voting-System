@@ -14,7 +14,7 @@ Metamask: https://metamask.io/
 
 
 # 2. Get started with Back-End
-To get started, Create a new folder named as election and install npm package.
+To bootstrap sample truffle project, use command truffle unbox pet-shop.
 
 $ cd election
 

@@ -1,8 +1,6 @@
 # Decentralized-Blockchain-Based-Secured-E-Voting-System
 Build your first Decentralized Blockchain E-voting system on Ethereum Network
 
-Here are following steps for your reference
-
 # 1. Installation
 Install the Dependencies
 

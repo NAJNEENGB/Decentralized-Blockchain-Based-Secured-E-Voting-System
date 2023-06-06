@@ -15,9 +15,8 @@ Metamask: https://metamask.io/
 
 # 2. Get started with Back-End
 
-$ cd election
-
-$ npm install
+**$ cd election
+$ npm install**
 
 
 # 3. Open Ganache
